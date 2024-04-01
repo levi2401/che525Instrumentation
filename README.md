@@ -7,7 +7,7 @@ TE525: This is an RTD sensor that measures temperature.
 
 PIT525A: This is a radar-level sensor that allows for level sensing. 
 
-PIT525B: Hydrostatic pressure transmitter to sense levels. 
+PIT525B: Hydrostatic pressure transmitter to measure liquid level in a tank. 
 
 Tag | Manufacturer | Model | Process Parameters
 :---:|:---:|:---: |:---:

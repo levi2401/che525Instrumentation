@@ -15,4 +15,5 @@ FTT525A |Endress+Hauser| Promass 300 | 0 to 6615 lb/min
 TE525A |Omega|RTD |-70 °C to 500 °C
 PIT525A |Endress+Hauser| Micropilot FMR63B |100 mbar...10 bar (1.5 psi...150 psi)
 PIT525B | Endress+Hauser | Deltapilot S FMB70 | -400...480 in H2O
+![image](https://github.com/levi2401/che525Instrumentation/assets/165671731/c068a2dc-01f6-4eab-af84-29e4518a2bfb)
 

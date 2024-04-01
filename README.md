@@ -1,15 +1,18 @@
 # che525Instrumentation
 ![RHIT Logo](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/master/RHITlogo.png)
 
-FIT525 A: This is a Coriolis flow meter. It can directly measure mass flow rate, density, and temperature.
+FIT525A: This is a Coriolis flow meter. It can directly measure mass flow rate, density, and temperature.
 
-FIT525 B: This is a 
+TE525: This is an RTD sensor that measures temperature. 
 
-PIT525 A: This is a radar-level sensor that allows for level sensing. 
+PIT525A: This is a radar-level sensor that allows for level sensing. 
+
+PIT525B: Hydrostatic pressure transmitter to sense levels. 
 
 Tag | Manufacturer | Model | Process Parameters
 :---:|:---:|:---: |:---:
-FTT |Endress+Hauser|1 |2
-TE |center-aligned|2 |2
-PIT525 |Endress+Hauser| Micropilot FMR63B |100 mbar...10 bar (1.5 psi...150 psi)
+FTT525A |Endress+Hauser| Promass 300 | 0 to 6615 lb/min
+TE525A |Omega|RTD |-70 °C to 500 °C
+PIT525A |Endress+Hauser| Micropilot FMR63B |100 mbar...10 bar (1.5 psi...150 psi)
+PIT525B | Endress+Hauser | Deltapilot S FMB70 | -400...480 in H2O
 
